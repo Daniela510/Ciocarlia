@@ -20,6 +20,9 @@
 
 ## Research
 ### The Audio
+### The Medium
+## Transcoding
+### 
 Artist in archive: Nicu Stănescu : -vinyl, version for violin.
 
 the modern original: Angheluş Dinicu first presented the tune in 1889 at the inauguration of the Eiffel Tower. - Also Roma (Gypsy, is it relevant to the context?)
