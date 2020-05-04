@@ -6,6 +6,9 @@
     1. [The Audio - Ciocarlia](#The-Audio)
     2. [The Medium - Vinyl](#The-Medium)
 3. [Transcodings](#Transcodings)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
 
 ## Artefact
 | Tag | Data |  
@@ -24,6 +27,9 @@
 ### The Medium
 ## Transcoding
 ### One
+## Reflection
+## Outcome
+## Conclusion
 Artist in archive: Nicu Stănescu : -vinyl, version for violin.
 
 the modern original: Angheluş Dinicu first presented the tune in 1889 at the inauguration of the Eiffel Tower. - Also Roma (Gypsy, is it relevant to the context?)
