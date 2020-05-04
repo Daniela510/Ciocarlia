@@ -13,7 +13,7 @@
 | **Physical Description** | A double sided vinyl record in a white paper cover with thin colored stripes.
 | **Type** | Audio recording
 | **Medium** | Vinyl record
-| **Materials** | Vynil, Paper, Plastic
+| **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
 
 ## Research
