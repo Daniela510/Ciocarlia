@@ -1,5 +1,23 @@
-# Ciocarlia
-transcoding is coding decoding encoding decoding transforming
+# TRANSCODINGS OF CIOCARLIA
+
+#### Table of Contents:
+1. [Artefact](#Artefact)
+2. [Research](#Research)
+    1. [The Audio - Ciocarlia](#The-Audio)
+    2. [The Medium - Vinyl] (#The-Medium)
+3. [Transcodings] (#Transcodings)
+
+## Artefact
+| Tag | Data |  
+|--|--|
+| **Physical Description** | A double sided vinyl record in a white paper cover with thin colored stripes.
+| **Type** | Audio recording
+| **Medium** | Vinyl record
+| **Materials** | Vynil, Paper, Plastic
+| **Date** | 1990-2003
+
+## Research
+### The Audio
 Artist in archive: Nicu Stănescu : -vinyl, version for violin.
 
 the modern original: Angheluş Dinicu first presented the tune in 1889 at the inauguration of the Eiffel Tower. - Also Roma (Gypsy, is it relevant to the context?)
