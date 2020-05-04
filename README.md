@@ -4,8 +4,8 @@
 1. [Artefact](#Artefact)
 2. [Research](#Research)
     1. [The Audio - Ciocarlia](#The-Audio)
-    2. [The Medium - Vinyl] (#The-Medium)
-3. [Transcodings] (#Transcodings)
+    2. [The Medium - Vinyl](#The-Medium)
+3. [Transcodings](#Transcodings)
 
 ## Artefact
 | Tag | Data |  
