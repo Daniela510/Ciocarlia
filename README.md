@@ -10,6 +10,8 @@
 ## Artefact
 | Tag | Data |  
 |--|--|
+ **COLL00332** | [Link to collection](http://hdl.handle.net/10622/COLL00332)
+| **Item Tag** | PK1-788
 | **Physical Description** | A double sided vinyl record in a white paper cover with thin colored stripes.
 | **Type** | Audio recording
 | **Medium** | Vinyl record
