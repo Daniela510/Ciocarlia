@@ -24,9 +24,9 @@
 
 ## Research
 ### The Audio
-| Nicu Stanescu | Grigoras Dinicu | Gheorghe Zamfir | Anghelus Dinicu | 
---|--|--|--
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0V3AAniGYMg/0.jpg)](https://www.youtube.com/watch?v=0V3AAniGYMg) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dG6FHwRzl8w/0.jpg)](https://www.youtube.com/watch?v=dG6FHwRzl8w) | No recording online
+| Nicu Stanescu | Grigoras Dinicu | Gheorghe Zamfir | Anghelus Dinicu | George Enescu | Victor Copacinschi | Orchestra Lautarii | Sons of Cordillera
+--|--|--|--|--|--|--|-- 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0V3AAniGYMg/0.jpg)](https://www.youtube.com/watch?v=0V3AAniGYMg) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dG6FHwRzl8w/0.jpg)](https://www.youtube.com/watch?v=dG6FHwRzl8w) | No recording online | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b5Pn1X1_a64/0.jpg)](https://www.youtube.com/watch?v=b5Pn1X1_a64) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EflpsFjkzxU/0.jpg)](https://www.youtube.com/watch?v=EflpsFjkzxU) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5EasV1aA25Y/0.jpg)](https://www.youtube.com/watch?v=5EasV1aA25Y) | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=CqsVNotObQA)
 
 ### The Medium
 ## Transcoding
