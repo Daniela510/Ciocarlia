@@ -3,6 +3,7 @@
 
 #### Table of Contents:
 1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
 2. [Research](#Research)
     1. [The Audio - Ciocarlia](#The-Audio)
     2. [The Medium - Vinyl](#The-Medium)
@@ -12,6 +13,10 @@
 6. [Conclusion](#Conclusion)
 
 ## Artefact
+
+The object is a vinyl record, onto which is pressed a violin performance of "*Ciocarlia*" by Nicu Stanescu.
+
+### Metadata
 | Tag | Data |  
 |--|--|
  **COLL00332** | [Link to collection](http://hdl.handle.net/10622/COLL00332)
@@ -26,7 +31,7 @@
 ## Research
 ### The Audio
 
-The tune pressed on the archived vinyl record is a permonce of "Ciocarlia"
+The tune pressed onto the vinyl is called "*Ciocarlia*"
 
 | Performer | Instrument | Relevancy | Link |
 --|--|--|-- 
