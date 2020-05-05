@@ -26,7 +26,7 @@
 ### The Audio
 | Nicu Stanescu | Anghelus Dinicu | Grigoras Dinicu | Gheorghe Zamfir |  
 --|--|--|--
-[!(https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | No recording online | !(https://img.youtube.com/vi/0V3AAniGYMg/0.jpg)](https://www.youtube.com/watch?v=0V3AAniGYMg) | !(https://img.youtube.com/vi/dG6FHwRzl8w/0.jpg)](https://www.youtube.com/watch?v=dG6FHwRzl8w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | No recording online | ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0V3AAniGYMg/0.jpg)](https://www.youtube.com/watch?v=0V3AAniGYMg) | ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dG6FHwRzl8w/0.jpg)](https://www.youtube.com/watch?v=dG6FHwRzl8w)
 
 ### The Medium
 ## Transcoding
