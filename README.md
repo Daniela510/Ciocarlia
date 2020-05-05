@@ -1,4 +1,4 @@
-![](images/coover.gif)
+![](images/c0ver.gif)
 # How does a skylark sing?
 
 #### Table of Contents:
