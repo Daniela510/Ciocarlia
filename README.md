@@ -44,7 +44,8 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
  **Sons of Cordillera** | Pan-flute | The Vinyl was pressed by the same company that pressed the archived version. It is a recording that can be found on musical streaming services yet little can be found about the interpreters. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=CqsVNotObQA)
  **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-xOpk5rVS3Q/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
-### The Medium
+### The Medium - Why Vinyl?
+![](images/vinyl.jpg)
 ## Transcoding
 ### One
 ## Reflection
