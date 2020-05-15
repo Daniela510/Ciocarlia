@@ -45,7 +45,15 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
  **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-xOpk5rVS3Q/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
 ### The Medium - Why Vinyl?
-![](images/vinyl.jpg) It requires active listening
+![](images/medium.jpg)
+| Reason | Exapansion |
+--|--
+Awareness | This medium requiers more active listening and awareness of the circumstances and the recording. Letting a generated spotify playlist play borders on lack of action, while putting on a vinyl is a deliberate concious action.
+Sound Quality |  Vinyl is able to reproduce really high fidelity sound, with little to no comression of the sound waves. There is a limit in volume both in the recording phase and the output, ironically this encouraged the preservation of the variety of ranges rather than aiming for a uniform loud record as was the tendency for CDs.
+Tangible | It is physical, therfore sharebale and inheritable. It's physicality disqualifies points of discussion that are still debated about digital recordings, for example the gray area of inheriting purchased iTunes mp3 recordings.
+Buying experience | Purchasing a new record comes with a hunt, and intention, it is a hobby and there is a community aspect to it too.
+
+
 ## Transcoding
 ### One
 ## Reflection
