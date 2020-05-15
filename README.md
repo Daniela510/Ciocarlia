@@ -31,7 +31,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 ## Research
 ### The Audio
 
-The tune pressed onto the vinyl is called "*Ciocarlia*"
+The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcoding of a birds song to a musical score. There are diverse theories as to where it originates from but similar tunes are heard across the balkans and caucas. Below is an overview of some notabe interpreations, most are of romanian origin because the modern score that is recorded on the artifact is accredited to a Romainan-Gypsy musician. The tune is also part of the collective memory and identity of Romania. 
 
 | Performer | Instrument | Relevancy | Link |
 --|--|--|-- 
@@ -41,7 +41,9 @@ The tune pressed onto the vinyl is called "*Ciocarlia*"
  **Gheorghe Zamfir** | Pan-flute | A return to the instrument the sheet music was written for. Zamfir re-introduced the pan-flute as a notorious musical instrument, he applied it to numerous music genres shaping the romainan folk-rock movement for example. He was awarded the with the medal of Vatican, the French order of cultural merit, and kinghted by Frane, Belgium and Luxemburg for his musical contributions to culture. He is most notable for performing folk songs, among witch is Ciocarlia. | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dG6FHwRzl8w/0.jpg)](https://www.youtube.com/watch?v=dG6FHwRzl8w)
  **George Enescu** | Violin | Georges Enesco, is considered to be the greatest Romanian musician. He was a composer, violinist, pianist, conductor, and teacher. He considered himself first and foremost a composer, but too few of his own compositions retain relevancy compared to his legendary persona remebered and told by his students and fellow musicians such as  Brahms, Bartok, Strauss, Ravel, Debussy and Shostakovich. | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b5Pn1X1_a64/0.jpg)](https://www.youtube.com/watch?v=b5Pn1X1_a64)
  **Victor Copacinschi** | Ciambalom | Successful moldovian musician who embraced romanian folk music while living basarabia under communist rule witch opposed the native romaian folk and culture. His rendetion of Ciocarlia became more known recently since his daughter recieved a grammy in 2018 for "Best Chamber Music" and promoted this recording on her platform. | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EflpsFjkzxU/0.jpg)](https://www.youtube.com/watch?v=EflpsFjkzxU)
- **Sons of Cordillera** | Pan-flue | The Vinyl was pressed by the same company that pressed the archved version. It is a recording that can be found on musical streaming services yet little can be found about the interpreters. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=CqsVNotObQA)
+ **Sons of Cordillera** | Pan-flute | The Vinyl was pressed by the same company that pressed the archived version. It is a recording that can be found on musical streaming services yet little can be found about the interpreters. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=CqsVNotObQA)
+ **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
+  **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
 ### The Medium
 ## Transcoding
 ### One
