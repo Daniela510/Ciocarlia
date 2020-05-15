@@ -45,7 +45,7 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
  **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-xOpk5rVS3Q/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
 ### The Medium - Why Vinyl?
-![](images/vinyl.jpg)
+![](images/vinyl.jpg) It requires active listening
 ## Transcoding
 ### One
 ## Reflection
