@@ -45,7 +45,7 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
  **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-xOpk5rVS3Q/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
 #### The bird
-![](images/thelark.jpg)
+![](images/skylark.jpg)
 It is a widespread species found across Europe and the Palearctic with introduced populations in New Zealand, Australia and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres (160 to 330 ft). The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.
 
 The female Eurasian skylark builds an open nest in a shallow depression on open ground well away from trees, bushes and hedges. She lays three to five eggs which she incubates for around 11 days. The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age. Nests are subject to high predation rates by larger birds and small mammals. The parents can have several broods in a single season.
