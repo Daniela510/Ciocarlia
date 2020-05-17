@@ -68,6 +68,11 @@ Both the medium and the content are important in the exploration of transcodings
 Unfortunately for all the reasons stated in [The Medium](#The-Medium) section above, in order to work with the content in a manageable way I had to first get a digital recording of the sound on it, transcoding it in the simplest way from it's analoge form to an mp3 recording. 
 Later on I also dissected the first recording into parts, since because of the way it was made it was not just a duplication of the content, but had a narrative of its on containing other actions such as putting the vinyl on the bed, starting the output, etc. 
 
+#### Method & Tool
+It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
+![](images/space.gif)
+
+#### Results
 | The Recording | The Recording in Segmented Pieces |
 --|--
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
