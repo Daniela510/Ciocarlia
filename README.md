@@ -29,8 +29,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 |  ![](/images/original.png) | It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 ## Research
-### The Audio
-
+### The Audio 
 The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcoding of a birds song to a musical score. There are diverse theories as to where it originates from but similar tunes are heard across the balkans and caucas. Below is an overview of some notabe interpreations, most are of romanian origin because the modern score that is recorded on the artifact is accredited to a Romainan-Gypsy musician. The tune is also part of the collective memory and identity of Romania. 
 
 | Performer | Instrument | Relevancy | Link |
@@ -44,9 +43,16 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
  **Sons of Cordillera** | Pan-flute | The Vinyl was pressed by the same company that pressed the archived version. It is a recording that can be found on musical streaming services yet little can be found about the interpreters. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CqsVNotObQA/0.jpg)](https://www.youtube.com/watch?v=CqsVNotObQA)
  **David Kipiani, Giorgi Tskhadadze, Malkhaz Qoiava** | Flute | Georgian performance of "Trolola", actually using the same sheet music as previous examples. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-xOpk5rVS3Q/0.jpg)](https://www.youtube.com/watch?v=-xOpk5rVS3Q)
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
+  
 #### The bird
+![](images/skylark.jpg)
+It is a widespread species found across Europe and the Palearctic with introduced populations in New Zealand, Australia and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres (160 to 330 ft). The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.
 
-### The Medium - Why Vinyl?
+The female Eurasian skylark builds an open nest in a shallow depression on open ground well away from trees, bushes and hedges. She lays three to five eggs which she incubates for around 11 days. The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age. Nests are subject to high predation rates by larger birds and small mammals. The parents can have several broods in a single season.
+
+### The Medium  
+#### Why Vinyl?
+
 ![](images/medium.jpg)
 | Reason | Exapansion |
 --|--
@@ -55,9 +61,16 @@ Sound Quality |  Vinyl is able to reproduce really high fidelity sound, with lit
 Tangible | It is physical, therfore sharebale and inheritable. It's physicality disqualifies points of discussion that are still debated about digital recordings, for example the gray area of inheriting purchased iTunes mp3 recordings.
 Buying experience | Purchasing a new record comes with a hunt, and intention, it is a hobby and there is a community aspect to it too.
 
-
 ## Transcoding
-### One
+Both the medium and the content are important in the exploration of transcodings. The artifact is a whole, while the transcodings explore parts of what interested me, deconstructing it without putting it back together, because the goal is not to recreate the artifact but to experience it. 
+
+### Transcoding No. 1
+Unfortunately for all the reasons stated in [The Medium](#The-Medium) section above, in order to work with the content in a manageable way I had to first get a digital recording of the sound on it, transcoding it in the simplest way from it's analoge form to an mp3 recording. 
+Later on I also dissected the first recording into parts, since because of the way it was made it was not just a duplication of the content, but had a narrative of its on containing other actions such as putting the vinyl on the bed, starting the output, etc. 
+
+| The Recording | The Recording in Segmented Pieces |
+--|--
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![](/images/original.png)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
 ## Reflection
 ## Outcome
 ## Conclusion
