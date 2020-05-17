@@ -8,10 +8,10 @@
     1. [The Audio - Ciocarlia](#The-Audio)
     2. [The Medium - Vinyl](#The-Medium)
 3. [Transcodings](#Transcodings)
-    1. [Analog to digital](#Transcoding-No.-1)
-    2. [Birds, forks and knives](#Transcoding-No.-2)
-    3. [A Soundscape](#Transcoding-No.-3)
-    4. [Bird, birds and other things that could have happended](#Transcoding-No.-4)
+    1. [Analog to digital](#Transcoding-1)
+    2. [Birds, forks and knives](#Transcoding-2)
+    3. [A Soundscape](#Transcoding-3)
+    4. [Bird, birds and other things that could have happended](#Transcoding-4)
     5. [What goes around comes around (Transcoding Tool)](#Transcoding-Tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
@@ -69,7 +69,7 @@ Buying experience | Purchasing a new record comes with a hunt, and intention, it
 # Transcodings
 Both the medium and the content are important in the exploration of transcodings. The artifact is a whole, while the transcodings explore parts of what interested me, deconstructing it without putting it back together, because the goal is not to recreate the artifact but to experience it. 
 
-## Transcoding No. 1
+## Transcoding 1
 ### Analog to digital 
 Unfortunately for all the reasons stated in [The Medium](#The-Medium) section above, in order to work with the content in a manageable way I had to first get a digital recording of the sound on it, transcoding it in the simplest way from it's analoge form to an mp3 recording. 
 Later on I also dissected the first recording into parts, since because of the way it was made it was not just a duplication of the content, but had a narrative of its on containing other actions such as putting the vinyl on the bed, starting the output, etc. 
@@ -84,7 +84,7 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 --|--
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
 
-## Transcoding No. 2
+## Transcoding 2
 ### Birds, forks and kinves
 
 
@@ -93,7 +93,7 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 
 ### Results
 
-## Transcoding No. 3
+## Transcoding 3
 ### A soundscape
 
 
@@ -103,7 +103,7 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 
 ### Results
 
-## Transcoding No. 4
+## Transcoding 4
 ### Birds, birds and other things that could have been
 
 
