@@ -11,8 +11,8 @@
     1. [Analog to digital](#Transcoding-No.-1)
     2. [Birds, forks and knives](#Transcoding-No.-2)
     3. [A Soundscape](#Transcoding-No.-3)
-    4. [What goes around comes around (Transcoding Tool)](#Transcoding-No.-4)
-    5. [Bird, birds and other things that could have happended](#Transcoding-No.-5)
+    4. [Bird, birds and other things that could have happended](#Transcoding-No.-4)
+    5. [What goes around comes around (Transcoding Tool)](#Transcoding-Tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -104,22 +104,21 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 ### Results
 
 ## Transcoding No. 4
+### Birds, birds and other things that could have been
+
+
+### Method & Tool
+
+
+### Results
+
+## Transcoding Tool
 ### What goes around comes around - Transcoding Tool
 
 
 ### Method 
 
 ### Tool
-
-
-### Results
-
-## Transcoding No. 5
-### Birds, birds and other things that could have been
-
-
-### Method & Tool
-
 
 ### Results
 
