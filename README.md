@@ -8,6 +8,11 @@
     1. [The Audio - Ciocarlia](#The-Audio)
     2. [The Medium - Vinyl](#The-Medium)
 3. [Transcodings](#Transcodings)
+    1. [Analog to digital](#Transcoding-No.-1)
+    2. [Birds, forks and knives](#Transcoding-No.-2)
+    3. [A Soundscape](#Transcoding-No.-3)
+    4. [What goes around comes around (Transcoding Tool)](#Transcoding-No.-4)
+    5. [Bird, birds and other things that could have happended](#Transcoding-No.-5)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -61,10 +66,11 @@ Sound Quality |  Vinyl is able to reproduce really high fidelity sound, with lit
 Tangible | It is physical, therfore sharebale and inheritable. It's physicality disqualifies points of discussion that are still debated about digital recordings, for example the gray area of inheriting purchased iTunes mp3 recordings.
 Buying experience | Purchasing a new record comes with a hunt, and intention, it is a hobby and there is a community aspect to it too.
 
-# Transcoding
+# Transcodings
 Both the medium and the content are important in the exploration of transcodings. The artifact is a whole, while the transcodings explore parts of what interested me, deconstructing it without putting it back together, because the goal is not to recreate the artifact but to experience it. 
 
 ## Transcoding No. 1
+### Analog to digital 
 Unfortunately for all the reasons stated in [The Medium](#The-Medium) section above, in order to work with the content in a manageable way I had to first get a digital recording of the sound on it, transcoding it in the simplest way from it's analoge form to an mp3 recording. 
 Later on I also dissected the first recording into parts, since because of the way it was made it was not just a duplication of the content, but had a narrative of its on containing other actions such as putting the vinyl on the bed, starting the output, etc. 
 
@@ -77,6 +83,46 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 | The Recording | The Recording in Segmented Pieces |
 --|--
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
+
+## Transcoding No. 2
+### Birds, forks and kinves
+
+
+### Method & Tool
+
+
+### Results
+
+## Transcoding No. 3
+### A soundscape
+
+
+### Methods
+
+### Tool
+
+### Results
+
+## Transcoding No. 4
+### What goes around comes around - Transcoding Tool
+
+
+### Method 
+
+### Tool
+
+
+### Results
+
+## Transcoding No. 5
+### Birds, birds and other things that could have been
+
+
+### Method & Tool
+
+
+### Results
+
 # Reflection
 # Outcome
 # Conclusion
