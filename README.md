@@ -70,7 +70,7 @@ Later on I also dissected the first recording into parts, since because of the w
 
 | The Recording | The Recording in Segmented Pieces |
 --|--
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![](/images/original.png)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![](/images/tunetune.png)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
 ## Reflection
 ## Outcome
 ## Conclusion
