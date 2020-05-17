@@ -74,6 +74,9 @@ Both the medium and the content are important in the exploration of transcodings
 Unfortunately for all the reasons stated in [The Medium](#The-Medium) section above, in order to work with the content in a manageable way I had to first get a digital recording of the sound on it, transcoding it in the simplest way from it's analoge form to an mp3 recording. 
 Later on I also dissected the first recording into parts, since because of the way it was made it was not just a duplication of the content, but had a narrative of its on containing other actions such as putting the vinyl on the bed, starting the output, etc. 
 
+### Aims
+To have a digital recording that I can go back to, replay, alter and work with.
+
 ### Method & Tool
 It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
 
@@ -105,6 +108,9 @@ forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe P
 ### A soundscape
 On a vinyl record the soundwaves are recorded as a physical landscape that a turntable touches and recreates the sounds inscribed in it. 
 
+### Aims
+To offer control to the listener and make the listening an active choice while also  translate the physical aspect of the artifact into a satisfying digital environment
+
 ### Methods
 From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/INHZ8rAWpvM/0.jpg)](https://www.youtube.com/watch?v=INHZ8rAWpvM)
@@ -124,14 +130,22 @@ The narrative heard in the tune also inspires a transcoding of it's own, as this
 
 ## Transcoding Tool
 ### What goes around comes around - Transcoding Tool
-
+In the small room the record was spinning around, and around, and around, in a seemingly eternal loop. The information is read by going in circles on a vinyl, so why not in a browser? The pieces of the story are layed out on the platter, but can only be accessed by spinning.
 
 ### Method 
+Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
+<img src="images/spinlark.gif" alt="a website of spinning larks" width="66%"/> 
+
+In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
+
+But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IuTnXANspUA/0.jpg)](https://www.youtube.com/watch?v=IuTnXANspUA)
 
 ### Tool
+Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
 
 ### Results
-
+The final Result is also part of [The Outcome](#The-Outcome).
 # Reflection
 # Outcome
 # Conclusion
