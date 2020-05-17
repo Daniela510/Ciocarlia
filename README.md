@@ -71,7 +71,6 @@ Later on I also dissected the first recording into parts, since because of the w
 #### Method & Tool
 It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
 
-![](images/space.gif)
 <img src="images/space.gif" alt="the room" width="34%"/>
 
 #### Results
