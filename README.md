@@ -86,31 +86,41 @@ It was done in a tiny chamber in the IISG with only the vinyl and me moving, a c
 
 ## Transcoding 2
 ### Birds, forks and kinves
+The tune itself can be called a transcoding as it takes the song of a skylark, reinterprets it into sheet music and then a musician performs it, ultimately creating soundwaves. I want to recreate this process of taming the bird, making the song available at will through a set of instructions and a performer. Taking a bit further folk songs are part of a collective memory, they exist in the mind of the group and are not anyones property. Ciocarlia is known and cathegorized as a folk song, yet it has a known creator and the vinyl recording is a physical object that is owned.
 
+### Aims
+Taming the bird song once again but furthering the folk aspect, to make the tune available to all that wish to hear it, without the need to pay to hear someone else's interpretation of it or formally own a version of it.
 
-### Method & Tool
+### Method
+Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
 
+Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now.
+
+### Tool
+forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
 
 ### Results
 
 ## Transcoding 3
 ### A soundscape
-
+On a vinyl record the soundwaves are recorded as a physical landscape that a turntable touches and recreates the sounds inscribed in it. 
 
 ### Methods
+From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/INHZ8rAWpvM/0.jpg)](https://www.youtube.com/watch?v=INHZ8rAWpvM)
 
-### Tool
+### Tool 
+Unity & Cinema4D
 
 ### Results
-
+The final result is part of [The Outcome](#The-Outcome).
 ## Transcoding 4
 ### Birds, birds and other things that could have been
+A possible transcoding was bringing back the actual bird and recompiling a version of the tune made without the middleman (the musician), a recording of birds seemingly singing the tune. It did not happen because sometimes things are better in your head or in the forest.
 
+Another aspect is the soundscape, as a vinyl record the soundwaves are recorded as a physical landscape that a turntable touches and recreates the sounds inscribed in it. Again a possible transcoding was removing the turnatble from the porcess by creating a soundscape that you interpret by touch. No audible soundwaves are to be produced, only a story you read by pressing your fingers along the physical soundscape. Unfortunately, since this sculptural interpretation would have no audiance for the forseeable future since that would be higly unsanitary and unsafe in a pandemic, making such a thing seemed pointless. Also since presenting it to you through a scan or a photo or a video makes no sense since it nulls all relevant asspects of the possible thing.
 
-### Method & Tool
-
-
-### Results
+The narrative heard in the tune also inspires a transcoding of it's own, as this recording seems to be a piece of program music. The high tempo of the tune made me think of an animated chase kind of like Tom & Jerry.
 
 ## Transcoding Tool
 ### What goes around comes around - Transcoding Tool
