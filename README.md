@@ -1,4 +1,6 @@
-![](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/coverimg.gif)
+![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/coverimg.gif)
+![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/coverimg.gif)
+![relative path](/images/coverimg.gif)
 # How does a skylark sing?
 
 #### Table of Contents:
@@ -31,7 +33,8 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 | **Medium** | Vinyl record
 | **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
-|  ![](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/original.png) | It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
+|  ![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/original.png)  ![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/original.png)
+ ![relative path](/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 # Research
 ## The Audio 
@@ -50,7 +53,9 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
   
 ### The bird
-![](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/skylark.jpg)
+![absolute path to specific id](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/skylark.jpg)
+![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/skylark.jpg)
+![relative path](images/skylark.jpg)
 It is a widespread species found across Europe and the Palearctic with introduced populations in New Zealand, Australia and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres (160 to 330 ft). The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.
 
 The female Eurasian skylark builds an open nest in a shallow depression on open ground well away from trees, bushes and hedges. She lays three to five eggs which she incubates for around 11 days. The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age. Nests are subject to high predation rates by larger birds and small mammals. The parents can have several broods in a single season.
@@ -58,7 +63,9 @@ The female Eurasian skylark builds an open nest in a shallow depression on open 
 ## The Medium  
 ### Why Vinyl?
 
-![](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/medium.jpg)
+![absolute path to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/medium.jpg)
+![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/medium.jpg)
+![relative path](/images/medium.jpg)
 | Reason | Exapansion |
 --|--
 Awareness | This medium requiers more active listening and awareness of the circumstances and the recording. Letting a generated spotify playlist play borders on lack of action, while putting on a vinyl is a deliberate concious action.
@@ -80,8 +87,9 @@ To have a digital recording that I can go back to, replay, alter and work with.
 ### Method & Tool
 It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/space.gif" alt="the room" width="34%"/>
-
+<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/space.gif" alt="the room" width="34%"/>
+<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/space.gif" alt="the room" width="34%"/>
+<img src="/images/space.gif" alt="the room" width="34%"/>
 ### Results
 | The Recording | The Recording in Segmented Pieces |
 --|--
@@ -113,7 +121,9 @@ To offer control to the listener and make the listening an active choice while a
 
 ### Methods
 From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/gamep.gif" alt="unity video" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/gamep.gif" alt="unity video" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/gamep.gif" alt="unity video" width="66%"/> 
+<img src="/images/gamep.gif" alt="unity video" width="66%"/> 
 
 ### Tool 
 Unity & Cinema4D
@@ -135,11 +145,16 @@ In the small room the record was spinning around, and around, and around, in a s
 ### Method 
 Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
 <img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
+
 
 In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
 
 But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/bigred.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
 
 ### Tool
 Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
