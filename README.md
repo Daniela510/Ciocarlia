@@ -106,8 +106,8 @@ Taming the bird song once again but furthering the folk aspect, to make the tune
 Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
 
 Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now. here is the first draft:
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/GID.jpg" alt="abslute path" width="66%"/> 
-<img src="/images/GID.jpg" alt="relative path" width="66%"/> 
+<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/GID.png" alt="abslute path" width="34%"/> 
+<img src="/images/GID.png" alt="relative path" width="34%"/> 
 
 ### Tool
 forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
