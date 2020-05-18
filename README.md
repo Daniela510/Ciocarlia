@@ -165,6 +165,15 @@ Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBe
 
 ### Results
 The final Result is also part of [The Outcome](#The-Outcome).
+
 # Reflection
+This semester has been about awareness, awareness of media and how it changes the experience of any object but also awareness of all the details and aspects that make an artifact and our perception of it what it is. It has been a great excercise in de-constructing an object and therefore getting to know it better and recunstructing a new experience of it.
+
 # Outcome
+The final outcome is a short overview, the story of the tune imprinted on the artifact served to you in the motion I have been exploring with the transcoding tool. There is a finale where you get to explore the landscape of the vinyl as well.
+
+[The website story](http://u65991p62729.web0094.zxcs-klant.nl/)
+[Shortcut to the Unity environment](http://u65991p62729.web0094.zxcs-klant.nl/second.html)
+
 # Conclusion
+Focusing on one item has been very insightful as it pushes you to look at it from more and more perspective, analizing part that would overwise be over looked. The excersize made me aware of how special this specific artifact is, but at the same time, how much more special anything can be if you deconstruct it and focus on the aspects that excite you.
