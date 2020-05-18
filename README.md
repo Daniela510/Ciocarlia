@@ -113,6 +113,8 @@ Since the goal is distributing the knowledge I've gained on how to perform the t
 forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
 
 ### Results
+![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/sheet.jpg)
+![relative path](/images/sheet.jpg)
 
 ## Transcoding 3
 ### A soundscape
