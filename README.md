@@ -113,7 +113,7 @@ To offer control to the listener and make the listening an active choice while a
 
 ### Methods
 From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/INHZ8rAWpvM/0.jpg)](https://www.youtube.com/watch?v=INHZ8rAWpvM)
+<img src="images/gameplay.gif" alt="unity video" width="66%"/> 
 
 ### Tool 
 Unity & Cinema4D
@@ -134,12 +134,12 @@ In the small room the record was spinning around, and around, and around, in a s
 
 ### Method 
 Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
-<img src="images/spinlark.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="images/birds.gif" alt="a website of spinning larks" width="66%"/> 
 
 In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
 
 But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IuTnXANspUA/0.jpg)](https://www.youtube.com/watch?v=IuTnXANspUA)
+<img src="images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
 
 ### Tool
 Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
