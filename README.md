@@ -1,4 +1,4 @@
-![](https://github.com/Daniela510/Ciocarlia/tree/master/images/coverimg.gif)
+![](images/coverimg.gif)
 # How does a skylark sing?
 
 #### Table of Contents:
