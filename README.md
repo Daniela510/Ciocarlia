@@ -113,7 +113,7 @@ To offer control to the listener and make the listening an active choice while a
 
 ### Methods
 From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-<img src="images/gameplay.gif" alt="unity video" width="66%"/> 
+<img src="images/gamep.gif" alt="unity video" width="66%"/> 
 
 ### Tool 
 Unity & Cinema4D
@@ -134,7 +134,7 @@ In the small room the record was spinning around, and around, and around, in a s
 
 ### Method 
 Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
-<img src="images/birds.gif" alt="a website of spinning larks" width="66%"/> 
+<img src="images/birdss.gif" alt="a website of spinning larks" width="66%"/> 
 
 In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
 
