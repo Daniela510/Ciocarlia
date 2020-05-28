@@ -1,5 +1,4 @@
 ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/coverimg.gif)
-![relative path](/images/coverimg.gif)
 # How does a skylark sing?
 
 #### Table of Contents:
@@ -32,7 +31,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 | **Medium** | Vinyl record
 | **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
-|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/original.png) ![relative path](/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
+|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/original.png))| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 # Research
 ## The Audio 
@@ -51,9 +50,7 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
   
 ### The bird
-![absolute path to specific id](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/skylark.jpg)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/skylark.jpg)
-![relative path](images/skylark.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/skylark.jpg)
 It is a widespread species found across Europe and the Palearctic with introduced populations in New Zealand, Australia and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres (160 to 330 ft). The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.
 
 The female Eurasian skylark builds an open nest in a shallow depression on open ground well away from trees, bushes and hedges. She lays three to five eggs which she incubates for around 11 days. The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age. Nests are subject to high predation rates by larger birds and small mammals. The parents can have several broods in a single season.
@@ -61,9 +58,7 @@ The female Eurasian skylark builds an open nest in a shallow depression on open 
 ## The Medium  
 ### Why Vinyl?
 
-![absolute path to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/medium.jpg)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/medium.jpg)
-![relative path](/images/medium.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/medium.jpg)
 | Reason | Exapansion |
 --|--
 Awareness | This medium requiers more active listening and awareness of the circumstances and the recording. Letting a generated spotify playlist play borders on lack of action, while putting on a vinyl is a deliberate concious action.
