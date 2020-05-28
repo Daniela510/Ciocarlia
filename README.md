@@ -1,6 +1,4 @@
-![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/coverimg.gif)
 ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/images/coverimg.gif)
-
 ![relative path](/images/coverimg.gif)
 # How does a skylark sing?
 
@@ -34,8 +32,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 | **Medium** | Vinyl record
 | **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
-|  ![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/original.png)  ![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/original.png)
- ![relative path](/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
+|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/tree/master/images/original.png) ![relative path](/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 # Research
 ## The Audio 
