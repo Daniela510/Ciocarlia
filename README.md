@@ -79,14 +79,12 @@ To have a digital recording that I can go back to, replay, alter and work with.
 
 ### Method & Tool
 It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
+<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/imagesspace.gif" alt="the room" width="34%"/>
 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/space.gif" alt="the room" width="34%"/>
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/space.gif" alt="the room" width="34%"/>
-<img src="/images/space.gif" alt="the room" width="34%"/>
 ### Results
 | The Recording | The Recording in Segmented Pieces |
 --|--
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
 
 ## Transcoding 2
 ### Birds, forks and kinves
@@ -106,8 +104,7 @@ Since the goal is distributing the knowledge I've gained on how to perform the t
 forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
 
 ### Results
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/sheet.jpg)
-![relative path](/images/sheet.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/sheet.jpg)
 
 ## Transcoding 3
 ### A soundscape
@@ -118,9 +115,8 @@ To offer control to the listener and make the listening an active choice while a
 
 ### Methods
 From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/gamep.gif" alt="unity video" width="66%"/> 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/gamep.gif" alt="unity video" width="66%"/> 
-<img src="/images/gamep.gif" alt="unity video" width="66%"/> 
+<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/gamep.gif" alt="unity video" width="66%"/> 
+
 
 ### Tool 
 Unity & Cinema4D
