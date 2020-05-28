@@ -1,5 +1,6 @@
 ![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/coverimg.gif)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/coverimg.gif)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/images/coverimg.gif)
+
 ![relative path](/images/coverimg.gif)
 # How does a skylark sing?
 
