@@ -1,9 +1,7 @@
-![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/coverimg.gif)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/coverimg.gif)
-![relative path](/images/coverimg.gif)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/coverimg.gif)
 # How does a skylark sing?
 
-#### Table of Contents:
+### Table of Contents:
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
@@ -33,8 +31,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 | **Medium** | Vinyl record
 | **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
-|  ![absolute path with permalink to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/original.png)  ![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/original.png)
- ![relative path](/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
+|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 # Research
 ## The Audio 
@@ -53,9 +50,7 @@ The tune pressed onto the vinyl is called "*Ciocarlia*", it is itself a transcod
   **Laza Tamburica** | Tambura | Serbian interpretation of "Seva" by local orchestra. Captures a more informal setting but still showcases great skill and talent. |[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jj9HZ8fbTvA/0.jpg)](https://www.youtube.com/watch?v=jj9HZ8fbTvA)
   
 ### The bird
-![absolute path to specific id](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/skylark.jpg)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/skylark.jpg)
-![relative path](images/skylark.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/skylark.jpg)
 It is a widespread species found across Europe and the Palearctic with introduced populations in New Zealand, Australia and on the Hawaiian Islands. It is a bird of open farmland and heath, known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 metres (160 to 330 ft). The sexes are alike. It is streaked greyish-brown above and on the breast and has a buff-white belly.
 
 The female Eurasian skylark builds an open nest in a shallow depression on open ground well away from trees, bushes and hedges. She lays three to five eggs which she incubates for around 11 days. The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age. Nests are subject to high predation rates by larger birds and small mammals. The parents can have several broods in a single season.
@@ -63,9 +58,7 @@ The female Eurasian skylark builds an open nest in a shallow depression on open 
 ## The Medium  
 ### Why Vinyl?
 
-![absolute path to a specific commit](https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/medium.jpg)
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/medium.jpg)
-![relative path](/images/medium.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/medium.jpg)
 | Reason | Exapansion |
 --|--
 Awareness | This medium requiers more active listening and awareness of the circumstances and the recording. Letting a generated spotify playlist play borders on lack of action, while putting on a vinyl is a deliberate concious action.
@@ -85,15 +78,14 @@ Later on I also dissected the first recording into parts, since because of the w
 To have a digital recording that I can go back to, replay, alter and work with.
 
 ### Method & Tool
-It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
+| Method | Visual |  
+|--|--|
+It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space. | ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/space.gif)
 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/space.gif" alt="the room" width="34%"/>
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/space.gif" alt="the room" width="34%"/>
-<img src="/images/space.gif" alt="the room" width="34%"/>
 ### Results
 | The Recording | The Recording in Segmented Pieces |
 --|--
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v8O2xf5sexc/0.jpg)](https://www.youtube.com/watch?v=v8O2xf5sexc) | [![wassup](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/tunetune.JPG)](https://www.notion.so/Recording-in-pieces-1eea6824f48041bba06dc68ff7986a39)
 
 ## Transcoding 2
 ### Birds, forks and kinves
@@ -103,18 +95,16 @@ The tune itself can be called a transcoding as it takes the song of a skylark, r
 Taming the bird song once again but furthering the folk aspect, to make the tune available to all that wish to hear it, without the need to pay to hear someone else's interpretation of it or formally own a version of it.
 
 ### Method
-Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
-
-Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now. here is the first draft:
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/GID.png" alt="abslute path" width="34%"/> 
-<img src="/images/GID.png" alt="relative path" width="34%"/> 
+| Method | Visual |  
+|--|--|
+Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930) | [No visuals, just audio.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
+Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now.|![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/GID.png)
 
 ### Tool
 forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
 
 ### Results
-![absolute path](https://github.com/Daniela510/Ciocarlia/tree/master/images/sheet.jpg)
-![relative path](/images/sheet.jpg)
+![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/sheet.jpg)
 
 ## Transcoding 3
 ### A soundscape
@@ -124,10 +114,9 @@ On a vinyl record the soundwaves are recorded as a physical landscape that a tur
 To offer control to the listener and make the listening an active choice while also  translate the physical aspect of the artifact into a satisfying digital environment
 
 ### Methods
-From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/gamep.gif" alt="unity video" width="66%"/> 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/gamep.gif" alt="unity video" width="66%"/> 
-<img src="/images/gamep.gif" alt="unity video" width="66%"/> 
+| Method | Visual |  
+|--|--|
+From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. |![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/gamep.gif)
 
 ### Tool 
 Unity & Cinema4D
@@ -147,24 +136,16 @@ The narrative heard in the tune also inspires a transcoding of it's own, as this
 In the small room the record was spinning around, and around, and around, in a seemingly eternal loop. The information is read by going in circles on a vinyl, so why not in a browser? The pieces of the story are layed out on the platter, but can only be accessed by spinning.
 
 ### Method 
-Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
-<img src="/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
-
-
-In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
-
-But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.
-<img src="https://github.com/Daniela510/Ciocarlia/tree/0422853a18fa1ff5ef68bf08789a5d03c8659508/images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
-<img src="https://github.com/Daniela510/Ciocarlia/tree/master/images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
-<img src="images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
+| Method | Visual |  
+|--|--|
+Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks. In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. |![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/birds.gif)
+But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.|![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/bigred.gif)
 
 ### Tool
 Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
 
 ### Results
-The final Result is also part of [The Outcome](#The-Outcome).
+The final Result is also part of [The Outcome](#Outcome).
 
 # Reflection
 This semester has been about awareness, awareness of media and how it changes the experience of any object but also awareness of all the details and aspects that make an artifact and our perception of it what it is. It has been a great excercise in de-constructing an object and therefore getting to know it better and recunstructing a new experience of it.
@@ -173,6 +154,7 @@ This semester has been about awareness, awareness of media and how it changes th
 The final outcome is a short overview, the story of the tune imprinted on the artifact served to you in the motion I have been exploring with the transcoding tool. There is a finale where you get to explore the landscape of the vinyl as well.
 
 [The website story](http://u65991p62729.web0094.zxcs-klant.nl/)
+
 [Shortcut to the Unity environment](http://u65991p62729.web0094.zxcs-klant.nl/second.html)
 
 # Conclusion
