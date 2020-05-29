@@ -31,7 +31,7 @@ The object is a vinyl record, onto which is pressed a violin performance of "*Ci
 | **Medium** | Vinyl record
 | **Materials** | Vinyl, Paper, Plastic
 | **Date** | 1990-2003
-|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/original.png))| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
+|  ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/original.png)| It is part of a larger collection: "*Gramophone records from Europe from country’s such as Belgium, Denmark, England, France, Hungary, Italy, The Netherlands, Portugal, Russia, Spain and Sweden. Gramophone records consists of various music from Europe. It contains different types of genres such as Basque, pop music, cabaret, poetry, chansons, folk music from Alsace, Corse and Bretagne and Kurdish music.*" However this particular record is a romanian folk tune.
 
 # Research
 ## The Audio 
@@ -78,8 +78,9 @@ Later on I also dissected the first recording into parts, since because of the w
 To have a digital recording that I can go back to, replay, alter and work with.
 
 ### Method & Tool
-It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space.
-<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/space.gif" alt="the room" width="34%"/>
+| Visual | Description |  
+|--|--|
+It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space. | ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/space.gif)
 
 ### Results
 | The Recording | The Recording in Segmented Pieces |
