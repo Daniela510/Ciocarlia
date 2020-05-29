@@ -78,7 +78,7 @@ Later on I also dissected the first recording into parts, since because of the w
 To have a digital recording that I can go back to, replay, alter and work with.
 
 ### Method & Tool
-| Visual | Description |  
+| Method | Visual |  
 |--|--|
 It was done in a tiny chamber in the IISG with only the vinyl and me moving, a capsule where all attention is on one thing, the recording. The digital version was recorded on my phone. Also used my phone to record  the space. | ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/space.gif)
 
@@ -95,10 +95,10 @@ The tune itself can be called a transcoding as it takes the song of a skylark, r
 Taming the bird song once again but furthering the folk aspect, to make the tune available to all that wish to hear it, without the need to pay to hear someone else's interpretation of it or formally own a version of it.
 
 ### Method
-Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
-
-Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now. here is the first draft:
-<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/GID.png" alt="abslute path" width="34%"/> 
+| Method | Visual |  
+|--|--|
+Experimenting with kitchen utensils and other household objects to create similar sounds while recording the outcomes for documentation and research. Here are some of the outcomes in [a notion document cause it actually embeds mp3s.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930) | [No visuals, just audio.](https://www.notion.so/We-have-Ciocarlia-at-home-c67fc20c03634e2da95f7bf45e3bc930)
+Since the goal is distributing the knowledge I've gained on how to perform the tune at home, i come to the part in the process where the sheet music is made. But since sheet music is a graphic language of it's own that limits the availabilty of knowledge I chose to detail this new DIY way to perform Ciocarlia in a more universal graphic language, some would argue the most widely understood one-images. By creating and distributing this sheet I make Ciocarlia _more_ of folk song as anyone with acesss to this information can make a skylark sing in their bedroom now.|![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/GID.png)
 
 ### Tool
 forks, knives, bowls, glasses, spoon, shelves, paperclips & the almighty Adobe Photoshop.
@@ -114,9 +114,9 @@ On a vinyl record the soundwaves are recorded as a physical landscape that a tur
 To offer control to the listener and make the listening an active choice while also  translate the physical aspect of the artifact into a satisfying digital environment
 
 ### Methods
-From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. 
-<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/gamep.gif" alt="unity video" width="66%"/> 
-
+| Method | Visual |  
+|--|--|
+From the perspective of a needle point the rings of the vinyl are hills and mountains, a huge concentric formation. I played around in Unity and made a world. Ideally there would be more to explore, artefacts that speak of other versions of the song, the tune's history or romanian gypsy cuture, but for now, it is what it is. |![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/gamep.gif)
 
 ### Tool 
 Unity & Cinema4D
@@ -136,15 +136,10 @@ The narrative heard in the tune also inspires a transcoding of it's own, as this
 In the small room the record was spinning around, and around, and around, in a seemingly eternal loop. The information is read by going in circles on a vinyl, so why not in a browser? The pieces of the story are layed out on the platter, but can only be accessed by spinning.
 
 ### Method 
-Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks.
-<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/birds.gif" alt="a website of spinning larks" width="66%"/> 
-
-
-
-In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. 
-
-But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.
-<img src="https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/bigred.gif" alt="a website of spinning larks" width="66%"/> 
+| Method | Visual |  
+|--|--|
+Well, the road was not straight. Found a couple of things: like a way to make an eternal lazy suzan of larks. In a way it was perfect because the motion and the hypnotic effect was there, but not the control. Scouring the internat for a way to scroll on a different path seems developers are awesome people making things happen, so here is a like to [scrollPath](https://github.com/JoelBesada/scrollpath) a jQuery plugin for defining a custom path that the browser follows when scrolling. A gem. |![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/birds.gif)
+But lastly here is where the process led, with some of the code sourced from Simon Sweeney, here is a website that reveals its content in a circular manner, making the viewer purposefully move along the circle in order to follow along with the story. Firstly I used this environment to display the other transcodings, but a better use if the medium (as advised by Hannes Bernard) is to actualy show a story of its own not parts of the previous process.|![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/bigred.gif)
 
 ### Tool
 Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
