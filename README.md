@@ -145,7 +145,7 @@ But lastly here is where the process led, with some of the code sourced from Sim
 Html, Css, Javascript, JQuery, Sizzle.js, [scrollPath](https://github.com/JoelBesada/scrollpath)
 
 ### Results
-The final Result is also part of [The Outcome](#The-Outcome).
+The final Result is also part of [The Outcome](#Outcome).
 
 # Reflection
 This semester has been about awareness, awareness of media and how it changes the experience of any object but also awareness of all the details and aspects that make an artifact and our perception of it what it is. It has been a great excercise in de-constructing an object and therefore getting to know it better and recunstructing a new experience of it.
