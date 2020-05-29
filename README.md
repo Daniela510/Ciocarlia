@@ -1,7 +1,7 @@
 ![absolute path](https://raw.githubusercontent.com/Daniela510/Ciocarlia/master/images/coverimg.gif)
 # How does a skylark sing?
 
-#### Table of Contents:
+### Table of Contents:
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
